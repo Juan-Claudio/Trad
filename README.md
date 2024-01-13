@@ -1,6 +1,6 @@
 # Trad
-Class to traduce expresions using json files of traductions
-Clase para traducir expresiones usando archivos json de traducciones
+## Class to traduce expresions using json files of traductions
+## Clase para traducir expresiones usando archivos json de traducciones
 
 Trad.py
   Need to using Trad.init(language:string, jsonFilesList:string)
