@@ -4,7 +4,7 @@
 
 Trad.py
   1) Need to using Trad.init(language:string, jsonFilesList:string)
-  -> It set language and load all traduction json files
+   => It set language and load all traduction json files
 
 Trad.js
   1) Need to load json files first and convert them to js object
